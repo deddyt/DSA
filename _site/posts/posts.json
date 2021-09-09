@@ -32,5 +32,22 @@
     "preview": {},
     "last_modified": "2021-09-09T16:59:41+08:00",
     "input_file": {}
+  },
+  {
+    "path": "posts/2021-09-09-post/",
+    "title": "Post",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Deddy Triwahyudi",
+        "url": "https://linkedin.com/in/deddytriwahyudi"
+      }
+    ],
+    "date": "2021-09-09",
+    "categories": [],
+    "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-09-09T18:21:45+08:00",
+    "input_file": "post.knit.md"
   }
 ]
